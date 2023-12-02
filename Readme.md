@@ -1,4 +1,4 @@
-# __**Pokemon GO Assets**__ __**:**__ __**Pokedex and Sprites**__
+# __**Pokemon GO Assets**__ __**:**__ __**Sprites**__
 
 **This Repository is of all thinks found and mined. This repo is organized based on category and is a combination of downloaded/remote assets and assets found inside the APK and Sources.**
 
